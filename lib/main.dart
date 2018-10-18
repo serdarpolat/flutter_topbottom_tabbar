@@ -65,6 +65,8 @@ class SayfalarDurum extends State<Sayfalar> with TickerProviderStateMixin {
             Tab(
               icon: Icon(Icons.flight),
             ),
+            Tab(
+              icon: Icon(Icons.hotel),
             ),
           ],
         ),
